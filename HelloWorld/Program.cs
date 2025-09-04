@@ -7,12 +7,14 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            GreetUser("Dmytro");
+            //GreetUser("Dmytro");
         }
 
+        /*
         static void GreetUser(string name)
         {
             Console.WriteLine("Hello " + name + "!");
         }
+        */
     }
 }
